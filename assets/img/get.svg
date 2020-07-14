@@ -1,0 +1,29 @@
+<svg width="88" height="68" viewBox="0 0 88 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="88" height="68" fill="#E5E5E5"/>
+<g clip-path="url(#clip0)">
+<rect width="1440" height="3372" transform="translate(-754 -1358)" fill="white"/>
+<g filter="url(#filter0_dd)">
+<rect x="8" y="4" width="72" height="52" rx="5" fill="#6979F8"/>
+</g>
+<path d="M34.5 24L44 28.5L53.5 24M44 40.519V28.759M44.89 19.2089L52.89 23.2089C53.2233 23.3745 53.5037 23.6298 53.6998 23.946C53.8959 24.2622 53.9999 24.6269 54 24.9989V34.5289C53.9999 34.901 53.8959 35.2657 53.6998 35.5819C53.5037 35.8981 53.2233 36.1534 52.89 36.3189L44.89 40.3189C44.6122 40.458 44.3058 40.5304 43.995 40.5304C43.6843 40.5304 43.3779 40.458 43.1 40.3189L35.1 36.3189C34.7672 36.1512 34.4878 35.8938 34.2934 35.5758C34.0991 35.2577 33.9975 34.8917 34 34.5189V24.9989C34.0002 24.6269 34.1042 24.2622 34.3003 23.946C34.4964 23.6298 34.7768 23.3745 35.11 23.2089L43.11 19.2089C43.3866 19.0715 43.6912 19 44 19C44.3089 19 44.6135 19.0715 44.89 19.2089Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_dd" x="0" y="0" width="88" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.196487 0 0 0 0 0.196487 0 0 0 0 0.279476 0 0 0 0.06 0"/>
+<feBlend mode="multiply" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.196487 0 0 0 0 0.196487 0 0 0 0 0.279476 0 0 0 0.08 0"/>
+<feBlend mode="multiply" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="1440" height="3372" fill="white" transform="translate(-754 -1358)"/>
+</clipPath>
+</defs>
+</svg>

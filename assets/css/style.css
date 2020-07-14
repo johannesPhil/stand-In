@@ -1,0 +1,38 @@
+body {
+  font-family: "Raleway", sans-serif !important;
+}
+
+#hero {
+  background: url("../img/hero-bg.svg") #212d8e no-repeat top left;
+}
+
+.navbar {
+  padding-bottom: 0 !important;
+  border-bottom: 1px solid rgba(59, 73, 183, 0.53) !important;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+  font-weight: bolder;
+  border-bottom: solid 1px #ff9921;
+}
+
+.subscribe-link {
+  background: #3a4ac2;
+  border-radius: 5px;
+}
+.cs {
+  background: #3a4ac2;
+  border-radius: 5px;
+  color: #ff9921;
+}
+
+.form-inline .btn {
+  background: #ff9921;
+}
